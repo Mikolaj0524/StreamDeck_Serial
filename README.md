@@ -9,9 +9,9 @@
 - I had created this plugin, because i can't find anyone.
 
 ### Preview
- - Category look:
- - 
- - ![](https://github.com/Mikolaj0524/StreamDeck_Serial/blob/main/github/category.png)
+ - Category look
+   
+![](https://github.com/Mikolaj0524/StreamDeck_Serial/blob/main/github/category.png)
 
 
 ### Installation
