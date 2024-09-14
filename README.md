@@ -10,7 +10,7 @@
 
 ### Preview
  - Category look:
-![](https://raw.githubusercontent.com/Mikolaj0524/StreamDeck_Serial/github/category.png)
+![](https://github.com/Mikolaj0524/StreamDeck_Serial/blob/main/github/category.png)
 
 
 ### Installation
