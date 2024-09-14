@@ -10,7 +10,7 @@
 
 ### Preview
  - Category look:
-![](https://raw.githubusercontent.com/Funbit/ets2-telemetry-server/master/source/Funbit.Ets.Telemetry.Mobile/skins/default/dashboard.jpg)
+![](https://raw.githubusercontent.com/Mikolaj0524/StreamDeck_Serial/github/category.png)
 
 
 ### Installation
