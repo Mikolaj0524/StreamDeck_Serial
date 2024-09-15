@@ -19,7 +19,7 @@
 
 ### Installation
 
-- If you want to install plugin you need to copy downloaded files into StreamDeck folder.
+- If you want to install plugin you need to copy downloaded "xyz.mikolaj0524.Serial.DefaultPlugi.sdPlugin" folder into StreamDeck folder.
 - Default installation path:
   
 ###
