@@ -19,8 +19,13 @@
 
 ### Installation
 
-- If you want to install plugin you need to copy downloaded "xyz.mikolaj0524.Serial.DefaultPlugi.sdPlugin" folder into StreamDeck folder.
-- Default installation path:
+- If you want to install plugin you need to copy downloaded "xyz.mikolaj0524.Serial.DefaultPlugi.sdPlugin" folder into StreamDeck plugins folder.
+- Default plugin installation path:
   
 ###
     C:\Users\<user>\AppData\Roaming\Elgato\StreamDeck\Plugins
+
+### Development
+
+- Plugin was created using [Fritz and Friends StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit).
+- Used languages: C#, JavaScript, HTML, CSS
