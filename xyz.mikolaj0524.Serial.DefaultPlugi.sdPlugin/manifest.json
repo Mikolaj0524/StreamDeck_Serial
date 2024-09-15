@@ -1,0 +1,44 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/PluginIcon",
+      "Name": "SerialAction",
+      "States": [
+        {
+          "Image": "images/PluginIcon",
+          "TitleAlignment": "middle",
+          "FontSize": "16"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Serial plugin!",
+      "UUID": "xyz.mikolaj0524.Serial.DefaultPluginAction"
+    }
+  ],
+	"Category": "Mikolaj0524",
+	"CategoryIcon": "images/CategoryIcon",
+	"Disabled":  false,
+	"Author": "Mikolaj0524",
+	"CodePathWin": "Serial.exe",
+	"CodePathMac":  "Serial",
+  "PropertyInspectorPath": "property_inspector/property_inspector.html",
+  "Description": "Serial plugin.",
+  "Name": "Serial",
+  "Icon": "images/PluginIcon",
+  "URL": "https://www.elgato.com/gaming/stream-deck",
+  "Version": "1.0",
+	"SDKVersion": 2,
+	"Software": {
+		"MinimumVersion":  "4.1"
+	},
+	"OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ]
+}

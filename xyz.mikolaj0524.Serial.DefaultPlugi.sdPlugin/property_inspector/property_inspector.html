@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Serial Property Inspector</title>
+	<link rel="stylesheet" href="css/sdpi.css">
+	<link rel="stylesheet" href="css/property-inspector.css">
+</head>
+<body>
+	<div class="sdpi-wrapper">
+
+		<div class="sdpi-item" id="counter_value">
+			<div class="sdpi-item-label">Port</div>
+			<input id="txtPort" class="sdpi-item-value" type="text" onchange="setSettings(event.target.value, 'Port')" />
+		</div>
+		<div class="sdpi-item" id="counter_value">
+			<div class="sdpi-item-label">Baud</div>
+			<input id="txtBaud" class="sdpi-item-value" type="number" onchange="setSettings(event.target.value, 'Baud')" />
+		</div>
+		<div class="sdpi-item" id="counter_value">
+			<div class="sdpi-item-label">Data</div>
+			<input id="txtData" class="sdpi-item-value" type="text" onchange="setSettings(event.target.value, 'Data')" />
+		</div>
+
+	</div>
+	<script src="js/property-inspector.js"></script>
+</body>
+</html>
