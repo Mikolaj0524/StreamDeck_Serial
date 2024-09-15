@@ -29,3 +29,4 @@
 
 - Plugin was created using [Fritz and Friends StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit).
 - Used languages: C#, JavaScript, HTML, CSS
+- C# is already compiled to .exe and .dll
