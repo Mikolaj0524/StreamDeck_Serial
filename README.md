@@ -13,6 +13,9 @@
    
 &emsp;&emsp;![](https://github.com/Mikolaj0524/StreamDeck_Serial/blob/main/github/category.png)
 
+ - Settings preview:
+   
+&emsp;&emsp;![](https://github.com/Mikolaj0524/StreamDeck_Serial/blob/main/github/config.png)
 
 ### Installation
 
